@@ -14,7 +14,35 @@ function DataTable() {
                 <tbody>
                     <tr>
                         <td>22/04/2021</td>
+                        <td>Anakin</td>
+                        <td>34</td>
+                        <td>25</td>
+                        <td>15017.00</td>
+                    </tr>
+                    <tr>
+                        <td>22/04/2021</td>
                         <td>Barry Allen</td>
+                        <td>34</td>
+                        <td>25</td>
+                        <td>15017.00</td>
+                    </tr>
+                    <tr>
+                        <td>22/04/2021</td>
+                        <td>Kal-El</td>
+                        <td>34</td>
+                        <td>25</td>
+                        <td>15017.00</td>
+                    </tr>
+                    <tr>
+                        <td>22/04/2021</td>
+                        <td>Logan</td>
+                        <td>34</td>
+                        <td>25</td>
+                        <td>15017.00</td>
+                    </tr>
+                    <tr>
+                        <td>22/04/2021</td>
+                        <td>Padmé</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
@@ -75,6 +103,14 @@ function DataTable() {
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
+                    <tr>
+                        <td>22/04/2021</td>
+                        <td>Barry Allen</td>
+                        <td>34</td>
+                        <td>25</td>
+                        <td>15017.00</td>
+                    </tr>
+
                 </tbody>
             </table>
         </div>
